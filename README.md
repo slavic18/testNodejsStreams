@@ -6,10 +6,10 @@
 # First, in your terminal, install dependencies
 $ npm install
 
-# To run  the nodejs server execute command below and open http://localhost:4446/
+# To run  the nodejs generate dummy data script
 $ npm run generate_data
 
-# Run the command below to start the cli client
+# Run the command below to start transform data script
 $ npm run start
 
 ```
