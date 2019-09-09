@@ -5,12 +5,12 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
+    "generate_data": "node makedata.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "big-json": "^3.0.0",
     "cluster": "^0.7.7"
   }
 }
